@@ -1,0 +1,26 @@
+{
+  "name": "fc-contracts",
+  "version": "1.0.0",
+  "description": "Factchain Ethereum Contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LayerXcom/fc-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LayerXcom/fc-contracts/issues"
+  },
+  "homepage": "https://github.com/LayerXcom/fc-contracts#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "1.12.0"
+  }
+}
